@@ -5,3 +5,5 @@ Esté projeto possui:
 -Código fonte do Arduino;
 -Código do arquivo "extensions_custom.conf", do Asterisk;
 -Código em PHP dos comandos para temporização em AGI.
+
+Qualquer dúvida ou esclarecimento é só entrar em contato: leandro@inforgel.com.br
